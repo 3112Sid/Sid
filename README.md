@@ -2,6 +2,8 @@
 
 # Hi, I'm Siddharth Gounder 👋
 
+</div>
+
 ## 🧑‍💻 About Me
 
 > *"I think real defenders learn by doing."*
