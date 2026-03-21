@@ -69,7 +69,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [🔥 WAF Home Lab](https://github.com/3112Sid/WAF-HomeLab/edit/main/README.md) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
+| [🔥 WAF Home Lab](https://github.com/3112Sid/WAF-HomeLab/blob/main/README.md) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
 
 </div>
 
