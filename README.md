@@ -5,7 +5,6 @@
 ### Cybersecurity Professional | Aspiring SOC Analyst | Software Engineer Turned Defender
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthgounder)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthgounder31@gmail.com)
 [![Location](https://img.shields.io/badge/Melbourne%2C_Australia-00843D?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -43,7 +42,6 @@
 ### 🔍 SIEM & Investigation
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-4B0082?style=for-the-badge&logoColor=white)
 
 ### 🧬 Digital Forensics
 ![Autopsy](https://img.shields.io/badge/Autopsy-2C2C2C?style=for-the-badge&logoColor=white)
@@ -81,19 +79,8 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [🔥 WAF Home Lab](./WAF-HomeLab) | Built a complete Web Application Firewall lab — attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
+| [🔥 WAF Home Lab](./WAF-HomeLab) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
 | [🕵️ Network Pentest Lab](./Network-Pentest-Lab) | Hands-on penetration testing including EternalBlue exploitation via Metasploit | Kali Linux, Nmap, Metasploit |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3112Sid&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3112Sid&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -103,14 +90,11 @@
 
 - 🔵 Preparing for **BTL1 practical exam** (24-hour incident response)
 - 📖 Studying **Australian ISM, PSPF & Essential Eight** frameworks
-- 🧪 Expanding home lab with **SIEM integration** (Splunk + Elastic)
 
 ---
 
 <div align="center">
 
 *"Real defenders learn by doing."*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=3112Sid.3112Sid)
 
 </div>
