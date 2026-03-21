@@ -20,7 +20,7 @@
 
 | Certification | Provider | Status |
 |---|---|---|
-| 🔵 Blue Team Level 1 (BTL1) | Security Blue Team |
+| 🔵 Blue Team Level 1 (BTL1) | Security Blue Team | Course Completed - Exam Pending
 | 🔴 SOC Level 1 | TryHackMe | 🔄 In Progress |
 
 </div>
