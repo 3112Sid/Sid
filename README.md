@@ -2,11 +2,6 @@
 
 # Hi, I'm Siddharth Gounder 👋
 
-
-[![LinkedIn](https://www.linkedin.com/in/siddharth-gounder)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthgounder31@gmail.com)
-[![Location](https://img.shields.io/badge/Melbourne%2C_Australia-00843D?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-
 </div>
 
 ---
