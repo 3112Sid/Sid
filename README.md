@@ -2,7 +2,6 @@
 
 # Hi, I'm Siddharth Gounder 👋
 
-### Cybersecurity Professional | Aspiring SOC Analyst | Software Engineer Turned Defender
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthgounder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthgounder31@gmail.com)
@@ -14,12 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-> *"I approach every alert with an investigator's mindset — connecting patterns, uncovering hidden risks, and responding with precision."*
+> *"I real defenders learn by doing."*
 
 - 🎓 **Master of Cybersecurity** @ Monash University, Melbourne
 - 🏢 Former **Associate Software Engineer** @ Bosch Global Software Technologies
-- 📜 Completing **Blue Team Level 1 (BTL1)** — Security Blue Team
-- 🔬 Building home labs, simulating attacks, and learning by doing
 - 🌏 Based in Melbourne, Australia | Open to cybersecurity opportunities
 
 ---
@@ -89,12 +86,8 @@
 ## 🧠 Currently Learning
 
 - 🔵 Preparing for **BTL1 practical exam** (24-hour incident response)
-- 📖 Studying **Australian ISM, PSPF & Essential Eight** frameworks
+- 🔬 Building home labs, simulating attacks, and learning by doing
+- Working on an entrepreneurship project for proper patient handovers across hospitals to avoid litigation issues.
 
 ---
 
-<div align="center">
-
-*"Real defenders learn by doing."*
-
-</div>
