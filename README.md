@@ -2,10 +2,6 @@
 
 # Hi, I'm Siddharth Gounder 👋
 
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 > *"I think real defenders learn by doing."*
@@ -71,7 +67,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [🔥 WAF Home Lab](./WAF-HomeLab) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
+| [🔥 WAF Home Lab](https://github.com/3112Sid/WAF-HomeLab/edit/main/README.md) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
 
 </div>
 
@@ -84,4 +80,9 @@
 - Working on an entrepreneurship project for proper patient handovers across hospitals to avoid litigation issues.
 
 ---
+<div align="center">
+
+*Built by [Siddharth Gounder](https://www.linkedin.com/in/siddharth-gounder) - learning by doing.*
+
+</div>
 
