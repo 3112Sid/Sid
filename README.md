@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-> *"I real defenders learn by doing."*
+> *"I think real defenders learn by doing."*
 
 - 🎓 **Master of Cybersecurity** @ Monash University, Melbourne
 - 🏢 Former **Associate Software Engineer** @ Bosch Global Software Technologies
