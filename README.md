@@ -3,7 +3,7 @@
 # Hi, I'm Siddharth Gounder 👋
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthgounder)
+[![LinkedIn](https://www.linkedin.com/in/siddharth-gounder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthgounder31@gmail.com)
 [![Location](https://img.shields.io/badge/Melbourne%2C_Australia-00843D?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -77,7 +77,6 @@
 | Project | Description | Tools |
 |---|---|---|
 | [🔥 WAF Home Lab](./WAF-HomeLab) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
-| [🕵️ Network Pentest Lab](./Network-Pentest-Lab) | Hands-on penetration testing including EternalBlue exploitation via Metasploit | Kali Linux, Nmap, Metasploit |
 
 </div>
 
