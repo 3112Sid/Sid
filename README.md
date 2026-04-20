@@ -14,6 +14,19 @@
 
 ---
 
+## 🔬 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tools |
+|---|---|---|
+| [🔥 WAF Home Lab](https://github.com/3112Sid/WAF-HomeLab/blob/main/README.md) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
+| [☁️ Cloud-Native ML Inference Platform](https://github.com/3112Sid) | Designed and deployed a FastAPI-based ML inference API with YOLO detection, containerised it with Docker, and deployed to a Kubernetes cluster - load tested with Locust to document bottlenecks and scaling behaviour | FastAPI, Docker, Kubernetes, Artifact Registry, Locust, YOLO |
+
+</div>
+
+---
+
 ## 🛡️ Certifications
 
 <div align="center">
@@ -60,19 +73,6 @@
 ![Essential Eight](https://img.shields.io/badge/Essential_Eight-00843D?style=for-the-badge&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST-003087?style=for-the-badge&logoColor=white)
 ![PSPF](https://img.shields.io/badge/PSPF-1B3A5C?style=for-the-badge&logoColor=white)
-
----
-
-## 🔬 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tools |
-|---|---|---|
-| [🔥 WAF Home Lab](https://github.com/3112Sid/WAF-HomeLab/blob/main/README.md) | Built a complete Web Application Firewall lab - attacked it with SQL injection and HTTP floods, then defended it using SafeLine WAF | VirtualBox, Kali, SafeLine, DVWA, OpenSSL |
-| [☁️ Cloud-Native ML Inference Platform](https://github.com/3112Sid) | Designed and deployed a FastAPI-based ML inference API with YOLO detection, containerised it with Docker, and deployed to a Kubernetes cluster - load tested with Locust to document bottlenecks and scaling behaviour | FastAPI, Docker, Kubernetes, Artifact Registry, Locust, YOLO |
-
-</div>
 
 ---
 
