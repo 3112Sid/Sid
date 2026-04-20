@@ -79,9 +79,8 @@
 ## 🧠 Currently Learning
 
 - 🔵 Preparing for **BTL1 practical exam** (24-hour incident response)
-- 🔬 Building home labs, simulating attacks, and learning by doing
-- Working on an entrepreneurship project for proper patient handovers across hospitals to avoid litigation issues.
-
+- 🔬 Working on an entrepreneurship project for proper patient handovers across hospitals to avoid litigation issues.
+  
 ---
 <div align="center">
 
